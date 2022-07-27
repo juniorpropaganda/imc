@@ -1,0 +1,22 @@
+body {
+    
+    height: 100vh;
+    background-image: url("https://boaforma.abril.com.br/wp-content/uploads/sites/2/2017/09/paolla_perfil_site-1.jpg?quality=90&strip=info&resize=850,567");
+    background-size: cover;
+    background-position: center;
+    
+
+}
+
+.container {
+    
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15em;
+    max-width: 500px;
+    margin: auto;
+  
+  
+}
